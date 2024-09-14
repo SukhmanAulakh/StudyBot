@@ -1,0 +1,3 @@
+Spotify
+Visual Studio Code
+Lunar Client
